@@ -1,7 +1,7 @@
 
 # Hi there 👋 Welcome to my GitHub!
 
-I'm **Dadi Naveen**, a strategic and data-driven Program Manager with 6+ years of experience in operations, Supply cahin, business analytics. I'm building intelligent solutions that drive business innovation, enable creator success, and streamline operations.
+I'm **Dadi Naveen**, a strategic and data-driven Operations & Supply Chain Professional with 6+ years of supply chain business analytics. I'm building intelligent solutions that drive business innovation, enable creator success, and streamline operations.
 
 ### 🚀 What I Built
 - 💳 **CREDX** – A unified credit and bill management platform with AI-powered fraud detection and P2P lending.
