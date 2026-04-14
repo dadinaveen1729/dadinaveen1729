@@ -1,19 +1,19 @@
 
 # Hi there 👋 Welcome to my GitHub!
 
-I'm **Dadi Naveen**, a strategic and data-driven Program Manager with 5+ years of experience in operations, business analytics, and CRM optimization. I'm building intelligent solutions that drive business innovation, enable creator success, and streamline operations.
+I'm **Dadi Naveen**, a strategic and data-driven Program Manager with 6+ years of experience in operations, Supply cahin, business analytics. I'm building intelligent solutions that drive business innovation, enable creator success, and streamline operations.
 
 ### 🚀 What I Built
 - 💳 **CREDX** – A unified credit and bill management platform with AI-powered fraud detection and P2P lending.
 - 📊 Power BI dashboards for escalation trends, creator engagement, and financial performance.
-- 🔁 Automations using SQL, Python, Salesforce, and ETL pipelines to improve decision-making.
+- 🔁 Automations using SQL, ERP- SAP, Oracle NS, Python, Salesforce, and ETL pipelines to improve decision-making.
 
 ---
 
 ### 🔍 About Me
 - 🎓 MS in Business Analytics – University of New Haven  
 - 🎓 Certificate in Disruptive Strategy – Harvard Business School  
-- 🏢 Experience at CREDX USA, Infosys (CRM, OBIEE), Amazon (Logistics & A/B Testing)  
+- 🏢 Experience at CREDX USA, Infosys, Amazon (Logistics & A/B Testing)  
 - 🛠 Tools: SQL • Python • R • Tableau • Power BI • Salesforce • Azure • SPSS • STATA  
 - 🌱 Interests: Creator Economy • AI for Business • Strategic Ops • Analytics Innovation
 
